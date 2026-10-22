@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus Guard</string>
+    <string name="accessibility_description">Detects when an app outside your allowed list is opened during a focus session.</string>
+</resources>
